@@ -9,3 +9,7 @@ RepRapDiscount Full Graphic Smart LCD Controller (http://reprap.org/wiki/RepRapD
 Use this when you're working on enclosures for your electronics.   
 
 NOTE: This is based off measurements I took of mine. YMMV.  :)
+
+License: CC BY-NC-SA 4.0
+http://creativecommons.org/licenses/by-nc-sa/4.0/
+http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
